@@ -123,6 +123,25 @@ button {
   width: 850px;
 }
 
+.videos__ftwo {
+  display: flex;
+  flex-direction: row;
+}
+
+.videos__stwo {
+  display: flex;
+  flex-direction: row;
+}
+
+.vdo2 {
+  margin-top: 275px;
+  margin-left: auto;
+}
+
+.vdo1 {
+  margin-top: -185px;
+}
+
 /* MEDIA QUERRIES */
 
 /* @media only screen and (max-width: 600px) {
